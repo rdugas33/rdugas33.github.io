@@ -1,10 +1,28 @@
-Author: 		KeenThemes
-Website: 		http://www.keenthemes.com/
-Contact: 		support@keenthemes.com
-Follow: 		http://twitter.com/keenthemes
-Like: 			http://facebook.com/keenthemes
+Responsive HTML5 website template for developers
 
-Looking for a perfect premium bootstrap admin theme for your project ? You got to check Metronic, our #1 selling admin theme in the market: 
-http://themeforest.net/item/metronic-responsive-admin-dashboard-template/4021469?ref=keenthemes
+Theme name:
+=======================================================================
+Developer
 
-Happy coding!  Don't miss a stuff from us - http://twitter.com/keenthemes
+Theme version:
+=======================================================================
+v1.2
+
+Release Date:
+=======================================================================
+10 August 2014
+
+Author: 
+=======================================================================
+Xiaoying Riley at 3rd Wave Media Ltd. (http://themes.3rdwavemedia.com/)
+
+Contact:
+=======================================================================
+Web: http://themes.3rdwavemedia.com/
+Email: hello@3rdwavemedia.com
+Twitter: @3rdwave_themes
+
+License: 
+=======================================================================
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
